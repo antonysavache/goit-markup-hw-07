@@ -1,2 +1,2 @@
-# goit-markup-hw-6
-live page - https://antonysavache.github.io/goit-markup-hw-06/
+# goit-markup-hw-7
+live page - https://antonysavache.github.io/goit-markup-hw-07/
